@@ -10,4 +10,4 @@ Use of css styling: selectors and Properties and use of Javascript date function
 Fork the repository or clone with the link: git@github.com:Zetech-University/Landing-Page.git or 
 git clone git@github.com:Zetech-University/Landing-Page.git if using git.
 
-Create a branch, and feel free to update and play around with code
+Create a branch, and feel free to update and play around with code .
