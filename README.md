@@ -3,7 +3,7 @@
 This a starter project to begginers in Js and CSS
 
 The web page created looks like this:
-Image: ![Screenshot](Time.png)
+Image: ![Screenshot](Time.PNG)
 
 Use of css styling: selectors and Properties and use of Javascript date function to show the time
 
