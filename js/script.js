@@ -1,9 +1,6 @@
 // Pulling in the DOM
-const time = document.getElementById('time');
-const greeting = document.getElementById('greeting'),
-    name = document.getElementById('name'),
-    focus = document.getElementById('focus');
-
+const time = document.querySelector('#time')
+const greeting = document.querySelector('#greeting')
 const show = true;
 
 // show time function
